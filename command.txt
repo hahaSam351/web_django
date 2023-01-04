@@ -1,0 +1,12 @@
+웹 프로젝트 만들기
+django-admin startproject firstdjango . 
+
+웹앱 만들기
+python manage.py startapp first
+
+런서버
+python manage.py runserver
+
+models.py 수정 후
+python manage.py makemigrations
+python manage.py migrate

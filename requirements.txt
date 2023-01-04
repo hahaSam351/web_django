@@ -1,0 +1,7 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+certifi==2021.5.30
+Django @ file:///tmp/build/80754af9/django_1617740316746/work
+psycopg2 @ file:///tmp/build/80754af9/psycopg2_1612298609104/work
+pytz==2022.6
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
