@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'first',
     'second',
     'third',
+    'test1',
 ]
 
 MIDDLEWARE = [
